@@ -13,4 +13,10 @@
         android:text="hello im cedric">
     </TextView>
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="hello im rrerererein"
+        ></TextView>
+
 </androidx.appcompat.widget.LinearLayoutCompat>
